@@ -33,7 +33,7 @@ You don’t need to clone anything. Just run:
 
 ```bash
 npx create-k8s-cluster
-````
+```
 
 Make sure you have:
 
